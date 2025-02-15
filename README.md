@@ -1,7 +1,8 @@
 ![](https://img.shields.io/badge/Foundry-v11.315-informational)
-## Rainbow lettered Dice
+## Rainbow Lettered Dice
 
 * **Author**: mozasahan
+* **Code Credit/Forked From**: EndlesNights
 * **Version**: 1.0.0
 * **Foundry VTT Compatibility**: 12
 * **System Compatibility**: Universal
@@ -12,6 +13,9 @@
 
 ### Link to Dependency
 * [https://gitlab.com/riccisi/foundryvtt-dice-so-nice](https://gitlab.com/riccisi/foundryvtt-dice-so-nice)
+
+### Based off
+* [https://github.com/EndlesNights/ApertureScienceWCDice](https://github.com/EndlesNights/ApertureScienceWCDice)
 
 ### Description
 Adds a set of 3D dice with rainbow letters to Dice-So-Nice
@@ -24,7 +28,7 @@ Adds a set of 3D dice with rainbow letters to Dice-So-Nice
 * Activate the module in your World using **Manage Modules** under the **Game Settings** tab.
 
 ### Method 2
-Extract the query.zip file to the public/modules directory. Use the `Manage Modules` in your World on the Settings tab of the sidebar on the right and then enable the `Dice Sonice - Rainbow Letters Dice Set` module.
+Extract the query.zip file to the public/modules directory. Use the `Manage Modules` in your World on the Settings tab of the sidebar on the right and then enable the `Dice So Nice - Rainbow Letters Dice Set` module.
 
 ### Patch Notes
 
