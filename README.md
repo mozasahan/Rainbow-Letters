@@ -1,6 +1,8 @@
 ![](https://img.shields.io/badge/Foundry-v11.315-informational)
 ## Rainbow Lettered Dice
 
+![image](https://github.com/user-attachments/assets/921ba1f0-e215-4028-8f4f-d16807b08c59)
+
 * **Author**: mozasahan
 * **Code Credit/Forked From**: EndlesNights
 * **Version**: 1.0.0
