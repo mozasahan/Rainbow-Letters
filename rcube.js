@@ -4,7 +4,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 		type: "d2",
 		labels: "",
 		modelFile: "modules/rcube/rcube_d2.glb",
-		system: "wcube"
+		system: "rcube"
 	});
 	dice3d.addDicePreset({
 		type: "d4",
