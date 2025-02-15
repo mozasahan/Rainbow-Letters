@@ -26,5 +26,6 @@
     "rainbow-letters.js"
   ],
   "url": "https://github.com/mozasahan/Rainbow-Letters",
-  "manifest": "https://raw.githubusercontent.com/mozasahan/Rainbow-Letters/main/module.json"
+  "manifest": "https://raw.githubusercontent.com/mozasahan/Rainbow-Letters/main/module.json",
+  "download": "https://github.com/mozasahan/Rainbow-Letters/archive/rainbow-letters_v1.zip"
 }
