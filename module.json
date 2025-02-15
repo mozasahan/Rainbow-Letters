@@ -1,8 +1,8 @@
 {
-"id": "wcube",
-	"name": "wcube",
-	"title": "Dice So Nice - Weighted Companion Cube Dice Set",
-	"description": "Adds a set of 3D dice in the style of Aperture Science Weighted Companion Cube to Dice-So-Nice ",
+"id": "rcube",
+	"name": "rcube",
+	"title": "Dice So Nice - Rainbow Letters Dice Set",
+	"description": "Adds a set of 3D dice with rainbow letters to Dice-So-Nice ",
 	"version": "1.0.5",
 	"minimumCoreVersion": "0.7.2",
 	"compatibleCoreVersion": "11",
@@ -10,10 +10,10 @@
 		"minimum": "0.7.2",
 		"verified": "11"
 	},
-	"author": "EndlesNights",
+	"author": "mozasahan",
 	"authors": [
 		{
-			"name": "EndlesNights"
+			"name": "mozasahan"
 		}
 	],
 	"dependencies": [
@@ -31,7 +31,7 @@
 		]
 	},
 	"scripts": [
-		"wcube.js"
+		"rcube.js"
 	],
 	"url": "https://github.com/EndlesNights/ApertureScienceWCDice",
 	"manifest": "https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/main/module.json",
