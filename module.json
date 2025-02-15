@@ -33,7 +33,7 @@
 	"scripts": [
 		"rcube.js"
 	],
-	"url": "https://github.com/EndlesNights/ApertureScienceWCDice",
-	"manifest": "https://raw.githubusercontent.com/EndlesNights/ApertureScienceWCDice/main/module.json",
+	"url": "https://github.com/mozasahan/Rainbow-Letters",
+	"manifest": "https://raw.githubusercontent.com/mozasahan/Rainbow-Letters/refs/heads/main/module.json",
 	"download": "https://github.com/EndlesNights/ApertureScienceWCDice/archive/1.0.5.zip"
 }
