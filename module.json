@@ -1,31 +1,39 @@
 {
-  "id": "rainbow-letters",
-  "title": "Dice So Nice - Rainbow Letters Dice Set",
-  "description": "Adds a set of 3D dice with rainbow letters to Dice-So-Nice",
-  "version": "1.0.0",
-  "authors": [
-    {
-      "name": "mozasahan",
-      "flags": {}
-    }
-  ],
-  "compatibility": {
-    "minimum": "12",
-    "verified": "12"
-  },
-  "relationships": {
-    "requires": [
-      {
-        "type": "module",
-        "id": "dice-so-nice",
-        "compatibility": {}
-      }
-    ]
-  },
-  "scripts": [
-    "rainbow-letters.js"
-  ],
-  "url": "https://github.com/mozasahan/Rainbow-Letters",
-  "manifest": "https://raw.githubusercontent.com/mozasahan/Rainbow-Letters/refs/heads/main/module.json",
-  "download": "https://github.com/mozasahan/Rainbow-Letters/releases/download/v1/rainbow-letters_v1.zip"
+"id": "rainbow-letters",
+	"name": "rainbow-letters",
+	"title": "Dice So Nice - Rainbow Letters Dice Set",
+	"description": "Adds a set of 3D dice with rainbow letters to Dice-So-Nice",
+	"version": "1.0.6",
+	"minimumCoreVersion": "0.7.2",
+	"compatibleCoreVersion": "13",
+	"compatibility": {
+		"minimum": "0.7.2",
+		"verified": "13"
+	},
+	"author": "mozasahan",
+	"authors": [
+		{
+			"name": "mozasahan"
+		}
+	],
+	"dependencies": [
+		{
+			"type": "module",
+			"name": "dice-so-nice"
+		}
+	],
+	"relationships": {
+		"requires": [
+			{
+				"type": "module",
+				"id": "dice-so-nice"
+			}
+		]
+	},
+	"scripts": [
+		"rainbow-letters.js"
+	],
+	"url": "https://github.com/mozasahan/Rainbow-Letters",
+	"manifest": "https://raw.githubusercontent.com/mozasahan/Rainbow-Letters/refs/heads/main/module.json",
+	"download": "https://github.com/mozasahan/Rainbow-Letters/releases/download/v1/rainbow-letters_v2.zip"
 }
